@@ -11,7 +11,7 @@ PASSWORD = os.getenv("PKU_PASSWORD")
 BASIC = {
     "sqbh":"",
     "crxqd":"燕园",
-    "crxzd":"校外",
+    "crxzd":"畅春园",
     "qdxm":"",
     "zdxm":"",
     "crxrq":"",
